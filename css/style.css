@@ -1,8 +1,21 @@
 body {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
+}
+
+
+/* For devices smaller than 400px: */
+.responsive-img {
+width="100%"; height="auto" 
+}
+
+/* For devices 400px and larger: */
+@media only screen and (min-device-width: 400px) {
+.responsive-img {
+width="23%"; height="auto" 
+}
 }
