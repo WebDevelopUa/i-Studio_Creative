@@ -1,21 +1,21 @@
 body {
-  background-color: lightgrey;
+  background-color: #dedfe5;
 }
 
 h1 {
   color: navy;
-  margin-left: 20px;
+  text-align: center;
 }
 
 
-/* For devices smaller than 400px: */
+/* For devices smaller than 430px: */
 .responsive-img {
   width: 100%; 
   height: auto
 }
 
-/* For devices 400px and larger: */
-@media only screen and (min-device-width: 400px) {
+/* For devices 430px and larger: */
+@media only screen and (min-device-width: 430px) {
 .responsive-img {
   width: 23%; 
   height: auto
