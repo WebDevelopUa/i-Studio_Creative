@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="css/style.css">
+
+
 # i-Studio creative
 
 
