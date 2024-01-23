@@ -1,5 +1,5 @@
 body {
-  background-color: #dedfe5;
+  background-color: #edeff6;
 }
 
 h1 {
@@ -7,6 +7,10 @@ h1 {
   text-align: center;
 }
 
+.footer {
+  display: none !important;
+  visibility: hidden
+}
 
 /* For devices smaller than 430px: */
 .responsive-img {
