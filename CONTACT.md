@@ -8,8 +8,8 @@ permalink: /contact.html
 # Contact Us
 
     
-# Sorry, contact information isn't available right now. Please try again later.
+## Sorry, contact information isn't available right now. Please try again later.
 
 
     
- [BACK TO HOMEPAGE](/)
+ ### [BACK TO HOMEPAGE](/)
