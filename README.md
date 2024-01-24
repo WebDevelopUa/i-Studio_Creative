@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 
-# i-Studio creative
+
 
 
 ### What would happen if it rained cats and dogs, but the cats and dogs were made of cotton candy?
