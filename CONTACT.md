@@ -11,5 +11,5 @@ permalink: /contact.html
 ## Sorry, contact information isn't available right now. Please try again later.
 
 
-    
- ### [BACK TO HOMEPAGE](/)
+
+### [BACK TO HOMEPAGE](/)
